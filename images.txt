@@ -7,3 +7,5 @@ xhofe/alist:latest
 
 redis:7-alpine
 cupcakearmy/cryptgeon:latest
+cloudreve/cloudreve:latest
+p3terx/aria2-pro
