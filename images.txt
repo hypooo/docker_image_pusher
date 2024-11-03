@@ -14,3 +14,4 @@ mysql:5.7
 nginx:latest
 minio/minio:RELEASE.2022-05-26T05-48-41Z
 anapsix/alpine-java:8_server-jre_unlimited
+python:3.9
