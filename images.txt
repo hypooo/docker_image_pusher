@@ -1,2 +1,1 @@
-ghcr.io/metacubex/metacubexd
-docker.io/metacubex/mihomo:Alpha
+ghcr.io/open-webui/open-webui:main
